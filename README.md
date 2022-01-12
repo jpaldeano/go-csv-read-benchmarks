@@ -1,5 +1,6 @@
 # go-csv-read-benchmarks
 
+```
 Calling external requests 1ms 
         Junior       Senior 
 10k  |   13.1s  |      0.343s
@@ -21,3 +22,4 @@ Calling external requests that take 250ms
 100k |  7h5m    |     1m6s
 1M   |  70h42m  |     10m6s 
 -----------------------------
+```
